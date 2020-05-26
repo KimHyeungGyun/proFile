@@ -1,0 +1,67 @@
+.wrapper {
+    margin: 0px 100px 0px 100px;
+}
+
+.headline {
+    background-color: #3f3e3e;
+    border: 2px solid #ccc;
+    border-radius: 1em;
+    margin-bottom: 20px;
+}
+
+.headline h1 {
+    font-size: 50px;
+    color: whitesmoke;
+    text-align: center;
+    text-shadow: 0 0 5px #333;
+}
+  
+.headline h2 {
+    font-size: 30px;
+    color: whitesmoke;
+    text-align: center;
+    padding-bottom: 20px;
+    text-shadow: 0 0 5px #333;
+}
+
+#myPhoto-Introduce {
+    background-color: #f5e8d8;
+    border: 2px solid #ccc;
+    border-radius: 1em;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+#my-photo {
+    height: 400px;
+    width: 300px;
+    flex-grow: 1;
+}
+
+.Introduce {
+    margin: 30px;
+    height: 200px;
+    width: 200px;
+    font-size: 30px;
+    flex-grow: 5;
+}
+
+.contents {
+    background-color: #3f3e3e;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid #ccc;
+    border-radius: 1em;
+}
+
+.contents h2 {
+    color: whitesmoke;
+    margin-left: 10px;
+}
+
+.detail {
+    color: whitesmoke;
+    margin-left: 20px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
